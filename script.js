@@ -93,7 +93,7 @@ function tapLove(id) {
       if (!loveMsg) return console.error('Không tìm thấy element loveMsg!');
 
       typeWriterEffect(
-        `Hôm nay là quốc tế thiếu nhi ! Chúc em bé ${userName} của tớ 1/6 thật vui vẻ hồn nhiên như một đứa trẻ nhưng cũng vẫn phải mạnh mẽ vượt qua mọi khó khăn như một nữ hoàng 👑. Dù cho em có lớn thêm bao nhiêu thì đối với tớ cậu luôn là một công chúa bé bỏng không ai có thể thay thế được💖
+        `Hôm nay là quốc tế thiếu nhi ! Chúc em bé ${userName} của tớ 1/6 thật vui vẻ hồn nhiên như một đứa trẻ nhưng cũng vẫn phải mạnh mẽ vượt qua mọi khó khăn như một nữ hoàng 👑. Dù cho em có lớn thêm bao nhiêu thì đối với tớ em luôn là một công chúa bé bỏng không ai có thể thay thế được💖
 `,
       'loveMsg',
         () => {
